@@ -1,0 +1,9 @@
+## Interface: 30300
+## Notes: |cFF663399Your enchanting window has a new configurable button.
+## Title: AutoEnch
+## Version: 0.1
+## SavedVariables: AutoEnchConfig
+
+Src\AutoEnch.lua
+Src\AutoEnchCommands.lua
+Src\AutoEnchOptions.lua
