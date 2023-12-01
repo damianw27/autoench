@@ -1,3 +1,11 @@
+<p align="center">
+  <img width="300" height="300" src="Media/Icon.png">
+</p>
+
+<p align="center">
+  <img width="300" height="50" src="Media/Title.png">
+</p>
+
 # AutoEnch - World of Warcraft (3.3.5a) Addon
 
 AutoEnch is an addon that enhances your enchanting profession experience in World of Warcraft. It introduces a convenient button to your enchanting interface, providing quick access to various enchanting actions.
